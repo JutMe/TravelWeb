@@ -7,10 +7,10 @@ There are times when we want to go for a vacation but the planning, budgeting, a
 The motivation of this website is to change that and give you a premade plan to reduce your stress.
 
 ### Website pages:
-- Website description page
-- Sign-in/Sign-up 
+* Website description page
+* Sign-in/Sign-up 
 * Travel Questionnaire
 * Premade Plans page (found by searching different travel websites by API)
 * Save plans
-*Booking Page
-*Payment Page
+* Booking Page
+* Payment Page
